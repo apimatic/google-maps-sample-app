@@ -30,8 +30,8 @@ This sample was generated using [APIMatic’s context plugins](https://www.apima
 
 ```bash
 # Clone the repository
-git clone https://github.com/apimatic/GoogleMapsSampleApp.git
-cd GoogleMapsSampleApp
+git clone https://github.com/apimatic/google-maps-sample-app.git
+cd google-maps-sample-app
 
 # Install dependencies
 npm install
