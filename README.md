@@ -1,4 +1,4 @@
-# Spin a Wheel
+# Spin the Wheel
 
 This app allows the user to provide their location on the map and picks a random restaurant within a specific radius of user's location. The app shows photos from Google Places and the user gets the option to see the directions or spin again.
 
